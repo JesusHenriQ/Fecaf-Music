@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+
+
+body {
+    background-color: rgb(0, 0, 26);
+}
+
+header {
+    background-color: #05072F;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+   
+
+    
+   
+}
+
+#vermelho {
+color: red;
+margin-left: 20px;
+
+}
+
+#mod {
+    margin-right: 130px;
+    
+}
+
+#mod1 {
+border-right: 2px solid red;
+
+
+padding-right: 30px;
+}
+
+
+
+a {
+text-decoration: none;
+color: white;
+font-size: 15px;
+margin-right: 20px;
+
+
+
+}
+
+
+.logo {
+    margin-left: 80px;
+    width: 250px;
+    
+    
+}
+
+.capa {
+float: right;
+width: 600px;
+
+
+}
+
+.text {
+width: 480px;
+margin-top: 80px;
+margin-left: 80px;
+
+
+}
+
+
+p{
+color: white;
+font-size: 25px;
+align-items:center;
+margin-top: 20px;
+margin-left: 90px;
+
+
+}
+
+#btn1 {
+    padding: 20px;
+    width: 200px;
+    border-radius: 30px;
+    background-color: #CF092D;
+    color: white;
+}
+
+#btn2 {
+    margin-top: 10PX;
+    padding: 20px;
+    width: 200px;
+    border-radius: 30px;
+    background-color: #410093;
+    color: white;
+}
+
+.btns {
+    
+    
+    margin-left: 90PX   ;
+}
+footer{
+    
+    justify-content: center;
+    color: white;
+    align-items: center;
+
+}
+
+
+.fp{
+    margin-top: 60px;
+    margin-left: 500px;
+    display: inline-block;
+    
+    align-items: center;
+    
+    text-align: center;
+    
+
+}
